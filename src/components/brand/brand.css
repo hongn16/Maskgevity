@@ -1,0 +1,35 @@
+.brand {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.brand__text {
+    padding: 1rem 8rem;
+    color: #fff;
+    background: #99CDFD;
+    
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.brand__text p {
+    flex: none;
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.brand div {
+    flex: 1;
+    max-width: 150px;
+    min-width: 120px;
+    margin: 1rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
