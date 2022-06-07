@@ -1,4 +1,4 @@
-### Live Site (https://maskgevity.netlify.app/)
+### [Live Site](https://maskgevity.netlify.app/)
 
 ### `npm start`
 
